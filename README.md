@@ -6,4 +6,6 @@ Export a chat from Whatsapp and Analyze various parameters in the chat including
 3) Timeline of the chat
 4) Emoji
 5) wordcloud
-6) Most common words used 
+6) Most common words used
+
+Used Streamlit to demonstrate the analysis.
